@@ -8,7 +8,7 @@ problem of jobs or technology, but as a problem of meaning. The industrial
 order issued a shared sense of where we were going. That story is gone. The
 School exists to read what's breaking, and to frame what gets built in the gap.
 
-**Live site** · https://carsonmckee-artandmedia.github.io/post-industrial-school
+**Live site** · https://carson-mckee.github.io/post-industrial-school
 **Writing** · https://understandingdigitalculture.substack.com
 
 ### What's here
