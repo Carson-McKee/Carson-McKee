@@ -1,8 +1,7 @@
 ## Carson McKee
 
-Marketing strategist, media theorist, and educator. I study how digital
-culture reorganizes faster than most people can interpret it, and work to
-close that gap.
+Marketing strategist, media theorist, and educator. 
+The future belongs to whoever spends these years building the story the industrial era can no longer tell.
 
 ### The Post-Industrial School
 A research program for reading the transition we're living through, not as a
