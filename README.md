@@ -1,6 +1,5 @@
 ## Carson McKee
 
-Strategist, media theorist and educator. 
 The future belongs to whoever spends these years building the story the industrial era can no longer tell.
 
 ### The Post-Industrial School
