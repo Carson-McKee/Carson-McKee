@@ -1,16 +1,20 @@
-## Hi there 👋
+## Carson McKee
 
-<!--
-**Carson-McKee/Carson-McKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing strategist, media theorist, and educator. I study how digital
+culture reorganizes faster than most people can interpret it, and work to
+close that gap.
 
-Here are some ideas to get you started:
+### The Post-Industrial School
+A research program for reading the transition we're living through, not as a
+problem of jobs or technology, but as a problem of meaning. The industrial
+order issued a shared sense of where we were going. That story is gone. The
+School exists to read what's breaking, and to frame what gets built in the gap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live site** · https://carsonmckee-artandmedia.github.io/post-industrial-school
+**Writing** · https://understandingdigitalculture.substack.com
+
+### What's here
+This is where the School's tools and pages live, built in the open.
+
+- `post-industrial-school` — the School's home page.
+  
