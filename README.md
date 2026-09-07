@@ -1,3 +1,4 @@
+# Carson McKee
 Digital culture analyst and media theorist. I research how digital systems reorganize culture faster than people can interpret it.
 
 The future belongs to whoever spends these years building the story the industrial era can no longer tell.
