@@ -20,7 +20,7 @@ Repo · [post-industrial-school](https://github.com/Carson-McKee/post-industrial
 
 ### Writing
 
-**Understanding Digital Culture** · weekly analysis of digital culture  
+**Understanding Digital Culture** · weekly analysis of digital culture on Substack
 https://understandingdigitalculture.substack.com
 
 ---
