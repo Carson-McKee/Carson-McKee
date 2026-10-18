@@ -9,7 +9,7 @@ The future belongs to whoever spends these years building the story the industri
 
 A research program on the systems that replace industrial meaning.
 
-Luck Surface Area, Revised  (Funded by the Langara ARC Research Fund)
+[Luck Surface Area_Revised](https://carson-mckee.github.io/luck-surface-area-revised/) (Funded by the Langara ARC Research Fund)
 
 functional-aesthetic (機能美) · Japan's transition from hardware to intellectual property.
 
