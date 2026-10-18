@@ -39,8 +39,8 @@ Repo · [speaking](https://github.com/Carson-McKee/speaking)
 
 Image work.
 
-functional-aesthetic (機能美) NFTs · Japan's hardware to IP transition  
-Fragments of Canada · three depictions of the arrest of Tamara Lich
+[functional-aesthetic (機能美)](https://opensea.io/collection/functional-aesthetic) NFTs · Japan's hardware to IP transition  
+[Fragments of Canada](https://opensea.io/collection/fragments-of-canada-collection) · three depictions of the arrest of Tamara Lich
 
 Repo · [art](https://github.com/Carson-McKee/art)
 
