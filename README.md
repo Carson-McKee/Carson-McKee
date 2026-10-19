@@ -11,8 +11,6 @@ A research program on the systems that replace industrial meaning.
 
 [Luck Surface Area_Revised](https://carson-mckee.github.io/luck-surface-area-revised/) (Funded by the Langara ARC Research Fund)
 
-[functional-aesthetic (機能美)](https://www.tumblr.com/functional-aesthetic) · Japan's transition from hardware to intellectual property.
-
 Live · [The Post-Industrial School](https://carson-mckee.github.io/post-industrial-school/)  
 Repo · [post-industrial-school](https://github.com/Carson-McKee/post-industrial-school)
 
@@ -48,7 +46,6 @@ Repo · [speaking](https://github.com/Carson-McKee/speaking)
 
 Image work.
 
-[functional-aesthetic (機能美)](https://opensea.io/collection/functional-aesthetic)  
 [Fragments of Canada](https://opensea.io/collection/fragments-of-canada-collection)
 
 Repo · [art](https://github.com/Carson-McKee/art)
