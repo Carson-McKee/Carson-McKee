@@ -60,4 +60,4 @@ Langara College AI Council member.
 Former senior agency strategist for national brands.  
 BFA, Emily Carr University.
 
-carson@understandingdigitalculture.com
+Contact · [carson@understandingdigitalculture.com](mailto:carson@understandingdigitalculture.com)
