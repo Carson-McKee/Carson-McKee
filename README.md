@@ -46,6 +46,7 @@ Repo · [speaking](https://github.com/Carson-McKee/speaking)
 
 Image work.
 
+[functional-aesthetic (機能美)](https://opensea.io/collection/functional-aesthetic)  
 [Fragments of Canada](https://opensea.io/collection/fragments-of-canada-collection)
 
 Repo · [art](https://github.com/Carson-McKee/art)
