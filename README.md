@@ -25,20 +25,13 @@ https://understandingdigitalculture.substack.com
 
 ### Speaking
 
-Keynotes, master classes and guest lectures on digital culture, AI literacy and marketing strategy.
+Keynotes and workshops on strategy and AI literacy.
 
-2026 DigiMarCon Canada West, Master Class  
-2025 Guest Lecture: UBC  
-2025 Langara College Academic Conference, Speaker  
 2025 DigiMarCon Canada West, Keynote and Master Class  
-2020 Sponsorship Space Conference, Panel Moderator  
-2017 Whistler Bike Digital Marketing Innovation, Speaker  
 2016 iMedia Conference, Keynote  
-2015 Retail Advertisers of Canada, Panelist  
-2011 Canadian Sponsorship Summit, Speaker  
 2010 Minnesota Wild Corporate Partners Summit, Keynote
 
-Repo · [speaking](https://github.com/Carson-McKee/speaking)
+Talks and workshops · [The Post-Industrial School](https://carson-mckee.github.io/post-industrial-school/speaking/)
 
 ---
 
